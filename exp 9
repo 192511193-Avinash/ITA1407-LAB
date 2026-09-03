@@ -1,0 +1,2 @@
+nmap -T2 TARGET_IP
+nmap -T3 TARGET_IP
